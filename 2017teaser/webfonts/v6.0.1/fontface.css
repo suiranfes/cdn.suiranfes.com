@@ -1,0 +1,132 @@
+/*
+ * "いろは角クラシック(irohakakuC)" is licensed under the SIL Open Font License 1.1.
+ * http://modi.jpn.org/font_irohakakuc.php（MODI工場）
+ */
+
+@font-face {
+    font-family: "irohakakuC-w";
+    src: url("https://suiranfes.com/lib/webfonts/v6.0.0/irohakakuC-Regular.eot");
+    src: url("https://suiranfes.com/lib/webfonts/v6.0.0/irohakakuC-Regular.eot") format("embedded-opentype"),url("https://suiranfes.com/lib/webfonts/v6.0.0/irohakakuC-Regular.woff2") format("woff2"),url("https://suiranfes.com/lib/webfonts/v6.0.0/irohakakuC-Regular.woff") format("woff"),url("https://suiranfes.com/lib/webfonts/v6.0.0/irohakakuC-Regular.ttf") format("truetype");
+    font-weight: 400;
+}
+@font-face {
+    font-family: "irohakakuC-w";
+    src: url("https://suiranfes.com/lib/webfonts/v6.0.0/irohakakuC-Medium.eot");
+    src: url("https://suiranfes.com/lib/webfonts/v6.0.0/irohakakuC-Medium.eot") format("embedded-opentype"),url("https://suiranfes.com/lib/webfonts/v6.0.0/irohakakuC-Medium.woff2") format("woff2"),url("https://suiranfes.com/lib/webfonts/v6.0.0/irohakakuC-Medium.woff") format("woff"),url("https://suiranfes.com/lib/webfonts/v6.0.0/irohakakuC-Medium.ttf") format("truetype");
+    font-weight: 500;
+}
+@font-face {
+    font-family: "irohakakuC-w";
+    src: url("https://suiranfes.com/lib/webfonts/v6.0.0/irohakakuC-Bold.eot");
+    src: url("https://suiranfes.com/lib/webfonts/v6.0.0/irohakakuC-Bold.eot") format("embedded-opentype"),url("https://suiranfes.com/lib/webfonts/v6.0.0/irohakakuC-Bold.woff2") format("woff2"),url("https://suiranfes.com/lib/webfonts/v6.0.0/irohakakuC-Bold.woff") format("woff"),url("https://suiranfes.com/lib/webfonts/v6.0.0/irohakakuC-Bold.ttf") format("truetype");
+    font-weight: 700;
+}
+
+/*
+ * "源真ゴシック(GenShinGothic)" is licensed under the SIL Open Font License 1.1.
+ * http://jikasei.me/font/genshin/（自家製フォント工房）
+ */
+
+@font-face {
+    font-family: "GenShinGothic-w";
+    src: url("https://suiranfes.com/lib/webfonts/v6.0.0/GenShinGothic-Regular.eot");
+    src: url("https://suiranfes.com/lib/webfonts/v6.0.0/GenShinGothic-Regular.eot?#iefix") format("embedded-opentype"),url("https://suiranfes.com/lib/webfonts/v6.0.0/GenShinGothic-Regular.woff2") format("woff2"),url("https://suiranfes.com/lib/webfonts/v6.0.0/GenShinGothic-Regular.woff") format("woff"),url("https://suiranfes.com/lib/webfonts/v6.0.0/GenShinGothic-Regular.ttf") format("truetype");
+    font-weight: 400;
+}
+@font-face {
+    font-family: "GenShinGothic-w";
+    src: url("https://suiranfes.com/lib/webfonts/v6.0.0/GenShinGothic-Medium.eot");
+    src: url("https://suiranfes.com/lib/webfonts/v6.0.0/GenShinGothic-Medium.eot?#iefix") format("embedded-opentype"),url("https://suiranfes.com/lib/webfonts/v6.0.0/GenShinGothic-Medium.woff2") format("woff2"),url("https://suiranfes.com/lib/webfonts/v6.0.0/GenShinGothic-Medium.woff") format("woff"),url("https://suiranfes.com/lib/webfonts/v6.0.0/GenShinGothic-Medium.ttf") format("truetype");
+    font-weight: 500;
+}
+@font-face {
+    font-family: "GenShinGothic-w";
+    src: url("https://suiranfes.com/lib/webfonts/v6.0.0/GenShinGothic-Bold.eot");
+    src: url("https://suiranfes.com/lib/webfonts/v6.0.0/GenShinGothic-Bold.eot?#iefix") format("embedded-opentype"),url("https://suiranfes.com/lib/webfonts/v6.0.0/GenShinGothic-Bold.woff2") format("woff2"),url("https://suiranfes.com/lib/webfonts/v6.0.0/GenShinGothic-Bold.woff") format("woff"),url("https://suiranfes.com/lib/webfonts/v6.0.0/GenShinGothic-Bold.ttf") format("truetype");
+    font-weight: 700;
+}
+
+/*
+ * "Mgen+" is licensed under the SIL Open Font License 1.1.
+ * http://jikasei.me/font/mgenplus/（自家製フォント工房）
+ */
+
+@font-face {
+    font-family: "mgenplus-p-w";
+    src: url("https://suiranfes.com/lib/webfonts/v6.0.0/mgenplus-p-regular.eot");
+    src: url("https://suiranfes.com/lib/webfonts/v6.0.0/mgenplus-p-regular.eot?#iefix") format("embedded-opentype"),url("https://suiranfes.com/lib/webfonts/v6.0.0/mgenplus-p-regular.woff2") format("woff2"),url("https://suiranfes.com/lib/webfonts/v6.0.0/mgenplus-p-regular.woff") format("woff"),url("https://suiranfes.com/lib/webfonts/v6.0.0/mgenplus-p-regular.ttf") format("truetype");
+    font-weight: 400;
+}
+@font-face {
+    font-family: "mgenplus-p-w";
+    src: url("https://suiranfes.com/lib/webfonts/v6.0.0/mgenplus-p-medium.eot");
+    src: url("https://suiranfes.com/lib/webfonts/v6.0.0/mgenplus-p-medium.eot?#iefix") format("embedded-opentype"),url("https://suiranfes.com/lib/webfonts/v6.0.0/mgenplus-p-medium.woff2") format("woff2"),url("https://suiranfes.com/lib/webfonts/v6.0.0/mgenplus-p-medium.woff") format("woff"),url("https://suiranfes.com/lib/webfonts/v6.0.0/mgenplus-p-medium.ttf") format("truetype");
+    font-weight: 500;
+}
+@font-face {
+    font-family: "mgenplus-p-w";
+    src: url("https://suiranfes.com/lib/webfonts/v6.0.0/mgenplus-p-bold.eot");
+    src: url("https://suiranfes.com/lib/webfonts/v6.0.0/mgenplus-p-bold.eot?#iefix") format("embedded-opentype"),url("https://suiranfes.com/lib/webfonts/v6.0.0/mgenplus-p-bold.woff2") format("woff2"),url("https://suiranfes.com/lib/webfonts/v6.0.0/mgenplus-p-bold.woff") format("woff"),url("https://suiranfes.com/lib/webfonts/v6.0.0/mgenplus-p-bold.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "mgenplus-p-w";
+    src: url("https://suiranfes.com/lib/webfonts/v6.0.0/mgenplus-p-black.eot");
+    src: url("https://suiranfes.com/lib/webfonts/v6.0.0/mgenplus-p-black.eot?#iefix") format("embedded-opentype"),url("https://suiranfes.com/lib/webfonts/v6.0.0/mgenplus-p-black.woff2") format("woff2"),url("https://suiranfes.com/lib/webfonts/v6.0.0/mgenplus-p-black.woff") format("woff"),url("https://suiranfes.com/lib/webfonts/v6.0.0/mgenplus-p-black.ttf") format("truetype");
+    font-weight: 900;
+}
+
+/*
+ * iOS・Mac軽量化
+ */
+
+@font-face{
+    font-family: "Hirgaino Sans";
+    src: local("HiraginoSans-W1");
+    font-weight: 100;
+}
+@font-face{
+    font-family: "Hirgaino Sans";
+    src: local("HiraginoSans-W2");
+    font-weight: 200;
+}
+@font-face{
+    font-family: "Hirgaino Sans";
+    src: local("HiraginoSans-W3");
+    font-weight: 300;
+}
+@font-face{
+    font-family: "Hirgaino Sans";
+    src: local("HiraginoSans-W3");
+    font-weight: 300;
+}
+@font-face{
+    font-family: "Hirgaino Sans";
+    src: local("HiraginoSans-W4");
+    font-weight: 400;
+}
+@font-face{
+    font-family: "Hirgaino Sans";
+    src: local("HiraginoSans-W5");
+    font-weight: 500;
+}
+@font-face{
+    font-family: "Hirgaino Sans";
+    src: local("HiraginoSans-W6");
+    font-weight: 600;
+}
+@font-face{
+    font-family: "Hirgaino Sans";
+    src: local("HiraginoSans-W7");
+    font-weight: 700;
+}
+@font-face{
+    font-family: "Hirgaino Sans";
+    src: local("HiraginoSans-W8");
+    font-weight: 800;
+}
+@font-face{
+    font-family: "Hirgaino Sans";
+    src: local("HiraginoSans-W9");
+    font-weight: 900;
+}
