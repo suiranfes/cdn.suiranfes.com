@@ -7,8 +7,22 @@
 </IfModule>
 # php -- END cPanel-generated handler, do not edit
 
-SetEnvIf Referer "^suiranfes\.com" ref_ok
-SetEnvIf Referer "^$" ref_ok
-order deny,allow
-deny from all
-allow from env=ref_ok
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE font/opentype font/eot font/truetype application/font-woff application/font-woff2
+</IfModule>
+<FilesMatch "\.(?i:(otf|ttf|eot|woff|woff2)?)$">
+  Header set Access-Control-Allow-Origin *
+</FilesMatch>
+
+Allow from all
+Header set Strict-Transport-Security "max-age=315360000; includeSubDomains; preload"
+ExpiresDefault A25920000
+Header set Access-Control-Allow-Origin *
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^cdn.suiranfes.com$
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*) https://cdn.suiranfes.com/$1 [R=301,L]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ $1.html
