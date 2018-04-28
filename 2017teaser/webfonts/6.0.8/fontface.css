@@ -1,0 +1,53 @@
+/*
+ * "いろは角クラシック(irohakakuC)" is licensed under the SIL Open Font License 1.1.
+ * http://modi.jpn.org/font_irohakakuc.php（MODI工場）
+ */
+
+@font-face {
+    font-family: "irohakakuC-w";
+    src: url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/irohakakuC-Regular.eot");
+    src: url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/irohakakuC-Regular.eot") format("embedded-opentype"),url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/irohakakuC-Regular.woff2") format("woff2"),url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/irohakakuC-Regular.woff") format("woff"),url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/irohakakuC-Regular.ttf") format("truetype");
+    font-weight: 400;
+}
+@font-face {
+    font-family: "irohakakuC-w";
+    src: url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/irohakakuC-Medium.eot");
+    src: url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/irohakakuC-Medium.eot") format("embedded-opentype"),url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/irohakakuC-Medium.woff2") format("woff2"),url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/irohakakuC-Medium.woff") format("woff"),url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/irohakakuC-Medium.ttf") format("truetype");
+    font-weight: 500;
+}
+@font-face {
+    font-family: "irohakakuC-w";
+    src: url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/irohakakuC-Bold.eot");
+    src: url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/irohakakuC-Bold.eot") format("embedded-opentype"),url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/irohakakuC-Bold.woff2") format("woff2"),url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/irohakakuC-Bold.woff") format("woff"),url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/irohakakuC-Bold.ttf") format("truetype");
+    font-weight: 700;
+}
+
+/*
+ * "Mgen+" is licensed under the SIL Open Font License 1.1.
+ * http://jikasei.me/font/mgenplus/（自家製フォント工房）
+ */
+
+@font-face {
+    font-family: "mgenplus-p-w";
+    src: url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/mgenplus-p-regular.eot");
+    src: url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/mgenplus-p-regular.eot?#iefix") format("embedded-opentype"),url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/mgenplus-p-regular.woff2") format("woff2"),url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/mgenplus-p-regular.woff") format("woff"),url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/mgenplus-p-regular.ttf") format("truetype");
+    font-weight: 400;
+}
+@font-face {
+    font-family: "mgenplus-p-w";
+    src: url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/mgenplus-p-medium.eot");
+    src: url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/mgenplus-p-medium.eot?#iefix") format("embedded-opentype"),url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/mgenplus-p-medium.woff2") format("woff2"),url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/mgenplus-p-medium.woff") format("woff"),url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/mgenplus-p-medium.ttf") format("truetype");
+    font-weight: 500;
+}
+@font-face {
+    font-family: "mgenplus-p-w";
+    src: url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/mgenplus-p-bold.eot");
+    src: url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/mgenplus-p-bold.eot?#iefix") format("embedded-opentype"),url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/mgenplus-p-bold.woff2") format("woff2"),url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/mgenplus-p-bold.woff") format("woff"),url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/mgenplus-p-bold.ttf") format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "mgenplus-p-w";
+    src: url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/mgenplus-p-black.eot");
+    src: url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/mgenplus-p-black.eot?#iefix") format("embedded-opentype"),url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/mgenplus-p-black.woff2") format("woff2"),url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/mgenplus-p-black.woff") format("woff"),url("https://fs.suiranfes.com/2017teaser/webfonts/6.0.8/mgenplus-p-black.ttf") format("truetype");
+    font-weight: 900;
+}
